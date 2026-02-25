@@ -19,8 +19,8 @@ The code uses the following variables:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/martz-bg/interview-tf.git
-cd interview-tf
+git clone https://github.com/martz-bg/sample-terraform.git
+cd sample-terraform
 terraform init
 terraform plan
 terraform apply
